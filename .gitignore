@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+package-lock.json
+
+# Playwright
+playwright-report/
+test-results/
+*.log
+*.tmp
+chromium-profile/
+chrome-session/
+retell-session/
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db

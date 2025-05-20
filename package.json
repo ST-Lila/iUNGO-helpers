@@ -1,0 +1,22 @@
+{
+  "name": "update_db",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "@turf/turf": "^7.2.0",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^6.2.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}

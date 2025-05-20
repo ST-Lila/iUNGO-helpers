@@ -1,0 +1,58 @@
+[
+  {
+    "address": "Km 18.5 carretera a El Salvador condominio los cerezos casa 6 zona 8 Santa Catarina Pinula Luego del portal sol¿",
+    "coordenadas": "14.52919669, -90.46744986",
+    "departamento": "Guatemala",
+    "municipio": "Fraijanes, RN-2, Fraijanes, Guatemala",
+    "success": {
+      "address": "condominio los cerezos, Guatemala",
+      "bound": "Santa Catarina Pinula, Guatemala"
+    },
+    "comentarios": "el condominio NO está dentro de Fraijanes"
+  },
+  {
+    "address": "Chiquimula, Campollano Premier Casa 10B, codigo 12-12 o 12-13",
+    "coordenadas": "14.79168042 ,-89.54205405",
+    "departamento": "Chiquimula, Guatemala",
+    "municipio": "Chiquimula Airport, Guatemala",
+    "success": {
+      "address": "Campollano Premier Casa 10B, Guatemala",
+      "bound": "Chiquimula, Guatemala"
+    },
+    "comentarios": ""
+  },
+  {
+    "address": "11 avenida 1-105 colonia Los almendros mazatenango suchitepequez Casa color verde",
+    "coordenadas": "14.52902111,-91.5189928",
+    "departamento": "Suchitep¿quez, Guatemala",
+    "municipio": "San Lorenzo, Guatemala",
+    "success": {
+      "address": "Colonia Los almendros, Guatemala",
+      "bound": "mazatenango, Guatemala"
+    },
+    "comentarios": "Las Coordenadas no apuntan a Colonia Los almendros,pero el script me llevó a la dirección correcta"
+  },
+  {
+    "address": "6ta Avenida A  16-52 colinas de minerva zona 11 de mixco",
+    "coordenadas": "14.68458813, -90.55076178",
+    "departamento": "Guatemala, Guatemala",
+    "municipio": "Mixco, Guatemala",
+    "success": {
+      "address": "colinas de minerva, Guatemala",
+      "bound": "zona 11 de Mixco, Guatemala"
+    },
+    "comentarios": "Marcó a 300mts de las coordenadas"
+  },
+  {
+    "address": "Barberena Santa Rosa Colonia Villa flor 2 enfrente de la gallo a mano izquierda a una cuadra en una casa morada porton negro Colonia Villa flor 2 lote 94",
+    "coordenadas": "14.30614398, -90.36306683",
+    "departamento": "Santa Rosa, Guatemala",
+    "municipio": "Barberena, Santa Rosa, Guatemala",
+    "error:": "no encontró Colonia Villa flor 2 porque no figura en maps, encontró GALLO (enfrente)",
+    "success": {
+      "address": "gallo, Guatemala",
+      "bound": "Barberena, Guatemala"
+    },
+    "comentarios": "La Colonia Villa flor 2 no figura en google maps"
+  }
+]
