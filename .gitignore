@@ -9,8 +9,10 @@ test-results/
 *.log
 *.tmp
 chromium-profile/
+# ignore Chrome persistent sessions (contains cached secrets)
 chrome-session/
 retell-session/
+chrome-session-santiago@sidetool.co/
 
 # VSCode
 .vscode/
